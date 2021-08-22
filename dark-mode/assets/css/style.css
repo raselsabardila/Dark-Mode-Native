@@ -1,0 +1,30 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    transition: 0.5s;
+}
+
+.text-light {
+    color: #FFF;
+}
+
+.text-dark {
+    color: #202020;
+}
+
+.bg-light {
+    background-color: #FFF;
+}
+
+.bg-dark {
+    background-color: #202020;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
